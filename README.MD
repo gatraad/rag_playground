@@ -39,7 +39,7 @@ Mengatur seberapa besar potongan teks untuk embedding.
 
 | Arah tuning               | Efek                                                                 |
 | ------------------------- | -------------------------------------------------------------------- |
-| **Lebih besar** (400–600) | jawabannya langsung to the point tentang AR dan alasan pemilihannya. |
+| **Lebih besar** (400–600) | jawabannya langsung to the point. |
 | **Lebih kecil** (150–250) | jawabannya melebar ke banyak hal lain yang sebenarnya tidak ditanya. |
 
 **Pertanyaan**
